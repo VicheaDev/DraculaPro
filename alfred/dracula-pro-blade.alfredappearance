@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#8AFF80FF",
+        "font" : "System",
+        "color" : "#8AFF807F"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#8AFF80FF",
+        "font" : "System",
+        "color" : "#80FFEACC"
+      },
+      "backgroundSelected" : "#4158543F",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#F8F8F2FF",
+        "font" : "System",
+        "color" : "#F8F8F2E5"
+      },
+      "iconPaddingHorizontal" : 4,
+      "paddingVertical" : 3,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 5,
+      "background" : "#202C2A00",
+      "spacing" : 4,
+      "text" : {
+        "size" : 34,
+        "colorSelected" : "#000000FF",
+        "font" : "System Thin",
+        "color" : "#F8F8F2FF"
+      },
+      "backgroundSelected" : "#415854FF"
+    },
+    "window" : {
+      "color" : "#212C2AFF",
+      "paddingHorizontal" : 4,
+      "width" : 559,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 40,
+      "roundness" : 5,
+      "paddingVertical" : 4
+    },
+    "credit" : "Zeno Rocha",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#FF80BFFF",
+      "thickness" : 2
+    },
+    "name" : "Dracula Pro (Blade)"
+  }
+}

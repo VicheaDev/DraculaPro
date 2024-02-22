@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Dracula PRO - Buffy",
+  "description": "Premium dark theme for Chrome",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "frame": [42, 33, 44],
+      "frame_inactive": [84, 65, 88],
+      "frame_incognito": [42, 33, 44],
+      "frame_incognito_inactive": [42, 33, 44],
+      "toolbar": [84, 65, 88],
+      "tab_text": [248, 248, 242],
+      "tab_background_text": [248, 248, 242],
+      "bookmark_text": [248, 248, 242],
+      "ntp_background": [42, 33, 44],
+      "ntp_text": [248, 248, 242]
+    },
+    "tints" : {
+      "buttons" : [1, 1, 1]
+    }
+  }
+}

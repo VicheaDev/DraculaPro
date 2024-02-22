@@ -1,0 +1,11 @@
+{
+  "name": "insomnia-plugin-theme-dracula-pro",
+  "version": "1.0.0",
+  "description": "Dracula PRO - Be more productive",
+  "license": "MIT",
+  "main": "index.js",
+  "insomnia": {
+    "name": "theme-dracula-pro",
+    "description": "Dracula PRO - Be more productive"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "Dracula PRO - Morbius",
+  "description": "Premium dark theme for Firefox",
+  "theme": {
+    "colors": {
+      "frame": "rgb(44, 33, 34)",
+      "toolbar": "rgb(88, 65, 69)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(44, 33, 34)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "toolbar_field_border_focus": "rgb(255, 149, 128)",
+      "toolbar_field_highlight_text": "rgb(169, 112, 121)",
+      "toolbar_top_separator": "rgb(44, 33, 34)",
+      "tab_line": "rgb(255, 149, 128)",
+      "tab_text": "rgb(248, 248, 242)",
+      "tab_loading": "rgb(169, 112, 121)",
+      "tab_background_text": "rgb(199, 202, 210)",
+      "tab_background_separator": "rgb(169, 112, 121)",
+      "tab_selected": "rgb(88, 65, 69)",
+      "button_background_hover": "rgb(88, 65, 69)",
+      "button_background_active": "rgb(169, 112, 121)",
+      "popup": "rgb(44, 33, 34)",
+      "popup_text": "rgb(255, 255, 255)",
+      "popup_border": "rgb(255, 149, 128)",
+      "popup_highlight": "rgb(88, 65, 69)",
+      "popup_highlight_text": "rgb(248, 248, 242)",
+      "icons": "rgb(248, 248, 242)",
+      "icons_attention": "rgb(255, 149, 128)",
+      "sidebar": "rgb(44, 33, 34)",
+      "sidebar_text": "rgb(248, 248, 242)",
+      "sidebar_border": "rgb(169, 112, 121)",
+      "sidebar_highlight": "rgb(88, 65, 69)",
+      "sidebar_highlight_text": "rgb(248, 248, 242)",
+      "ntp_background": "rgb(44, 33, 34)",
+      "ntp_text": "rgb(248, 248, 242)"
+    }
+  }
+}

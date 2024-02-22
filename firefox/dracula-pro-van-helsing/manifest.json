@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "Dracula PRO - Van Helsing",
+  "description": "Premium dark theme for Firefox",
+  "theme": {
+    "colors": {
+      "frame": "rgb(11, 13, 15)",
+      "toolbar": "rgb(65, 77, 88)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(11, 13, 15)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "toolbar_field_border_focus": "rgb(128, 255, 234)",
+      "toolbar_field_highlight_text": "rgb(112, 140, 169)",
+      "toolbar_top_separator": "rgb(11, 13, 15)",
+      "tab_line": "rgb(128, 255, 234)",
+      "tab_text": "rgb(248, 248, 242)",
+      "tab_loading": "rgb(112, 140, 169)",
+      "tab_background_text": "rgb(199, 202, 210)",
+      "tab_background_separator": "rgb(112, 140, 169)",
+      "tab_selected": "rgb(65, 77, 88)",
+      "button_background_hover": "rgb(65, 77, 88)",
+      "button_background_active": "rgb(112, 140, 169)",
+      "popup": "rgb(11, 13, 15)",
+      "popup_text": "rgb(255, 255, 255)",
+      "popup_border": "rgb(128, 255, 234)",
+      "popup_highlight": "rgb(65, 77, 88)",
+      "popup_highlight_text": "rgb(248, 248, 242)",
+      "icons": "rgb(248, 248, 242)",
+      "icons_attention": "rgb(128, 255, 234)",
+      "sidebar": "rgb(11, 13, 15)",
+      "sidebar_text": "rgb(248, 248, 242)",
+      "sidebar_border": "rgb(112, 140, 169)",
+      "sidebar_highlight": "rgb(65, 77, 88)",
+      "sidebar_highlight_text": "rgb(248, 248, 242)",
+      "ntp_background": "rgb(11, 13, 15)",
+      "ntp_text": "rgb(248, 248, 242)"
+    }
+  }
+}

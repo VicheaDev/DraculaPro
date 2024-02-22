@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "Dracula PRO - Lincoln",
+  "description": "Premium dark theme for Firefox",
+  "theme": {
+    "colors": {
+      "frame": "rgb(44, 42, 33)",
+      "toolbar": "rgb(88, 84, 65)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(44, 42, 33)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "toolbar_field_border_focus": "rgb(255, 255, 128)",
+      "toolbar_field_highlight_text": "rgb(169, 159, 112)",
+      "toolbar_top_separator": "rgb(44, 42, 33)",
+      "tab_line": "rgb(255, 255, 128)",
+      "tab_text": "rgb(248, 248, 242)",
+      "tab_loading": "rgb(169, 159, 112)",
+      "tab_background_text": "rgb(199, 202, 210)",
+      "tab_background_separator": "rgb(169, 159, 112)",
+      "tab_selected": "rgb(88, 84, 65)",
+      "button_background_hover": "rgb(88, 84, 65)",
+      "button_background_active": "rgb(169, 159, 112)",
+      "popup": "rgb(44, 42, 33)",
+      "popup_text": "rgb(255, 255, 255)",
+      "popup_border": "rgb(255, 255, 128)",
+      "popup_highlight": "rgb(88, 84, 65)",
+      "popup_highlight_text": "rgb(248, 248, 242)",
+      "icons": "rgb(248, 248, 242)",
+      "icons_attention": "rgb(255, 255, 128)",
+      "sidebar": "rgb(44, 42, 33)",
+      "sidebar_text": "rgb(248, 248, 242)",
+      "sidebar_border": "rgb(169, 159, 112)",
+      "sidebar_highlight": "rgb(88, 84, 65)",
+      "sidebar_highlight_text": "rgb(248, 248, 242)",
+      "ntp_background": "rgb(44, 42, 33)",
+      "ntp_text": "rgb(248, 248, 242)"
+    }
+  }
+}

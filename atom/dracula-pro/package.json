@@ -1,0 +1,9 @@
+{
+  "name": "dracula-pro",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A premium dark syntax theme for Atom",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  }
+}

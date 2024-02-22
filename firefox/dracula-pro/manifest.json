@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "Dracula PRO",
+  "description": "Premium dark theme for Firefox",
+  "theme": {
+    "colors": {
+      "frame": "rgb(34, 33, 44)",
+      "toolbar": "rgb(69, 65, 88)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(34, 33, 44)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "toolbar_field_border_focus": "rgb(149, 128, 255)",
+      "toolbar_field_highlight_text": "rgb(121, 112, 169)",
+      "toolbar_top_separator": "rgb(34, 33, 44)",
+      "tab_line": "rgb(149, 128, 255)",
+      "tab_text": "rgb(248, 248, 242)",
+      "tab_loading": "rgb(121, 112, 169)",
+      "tab_background_text": "rgb(199, 202, 210)",
+      "tab_background_separator": "rgb(121, 112, 169)",
+      "tab_selected": "rgb(69, 65, 88)",
+      "button_background_hover": "rgb(69, 65, 88)",
+      "button_background_active": "rgb(121, 112, 169)",
+      "popup": "rgb(34, 33, 44)",
+      "popup_text": "rgb(255, 255, 255)",
+      "popup_border": "rgb(149, 128, 255)",
+      "popup_highlight": "rgb(69, 65, 88)",
+      "popup_highlight_text": "rgb(248, 248, 242)",
+      "icons": "rgb(248, 248, 242)",
+      "icons_attention": "rgb(149, 128, 255)",
+      "sidebar": "rgb(34, 33, 44)",
+      "sidebar_text": "rgb(248, 248, 242)",
+      "sidebar_border": "rgb(121, 112, 169)",
+      "sidebar_highlight": "rgb(69, 65, 88)",
+      "sidebar_highlight_text": "rgb(248, 248, 242)",
+      "ntp_background": "rgb(34, 33, 44)",
+      "ntp_text": "rgb(248, 248, 242)"
+    }
+  }
+}

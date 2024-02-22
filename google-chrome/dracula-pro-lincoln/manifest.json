@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Dracula PRO - Lincoln",
+  "description": "Premium dark theme for Chrome",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "frame": [44, 42, 33],
+      "frame_inactive": [88, 84, 65],
+      "frame_incognito": [44, 42, 33],
+      "frame_incognito_inactive": [44, 42, 33],
+      "toolbar": [88, 84, 65],
+      "tab_text": [248, 248, 242],
+      "tab_background_text": [248, 248, 242],
+      "bookmark_text": [248, 248, 242],
+      "ntp_background": [44, 42, 33],
+      "ntp_text": [248, 248, 242]
+    },
+    "tints" : {
+      "buttons" : [1, 1, 1]
+    }
+  }
+}
